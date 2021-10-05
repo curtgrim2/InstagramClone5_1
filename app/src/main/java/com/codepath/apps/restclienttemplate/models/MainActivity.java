@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//test
     private void queryPosts(){
 
         ParseQuery <Post> query = ParseQuery.getQuery(Post.class);
