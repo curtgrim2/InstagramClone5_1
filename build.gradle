@@ -17,4 +17,12 @@ allprojects {
         maven { url "https://jitpack.io" }
        // mavenCentral()
     }
+
+
+}
+
+ext {
+    appCompatVersion = '1.0.0'
+    designSupportVersion = '1.0.0'
+    recyclerViewVersion = '1.0.0'
 }
